@@ -47,7 +47,6 @@ python DJItello.py
 
 - `DJItello.py`: Main script for drone pose-based navigation.
 - `Control_teclado.py`: Optional script for manual keyboard control of the drone.
-- `oracle.py`: Support script for pose detection logic.
 - `pruebas.py`: Script for additional testing and debugging.
 
 ## Results
